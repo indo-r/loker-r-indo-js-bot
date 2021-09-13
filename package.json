@@ -1,0 +1,19 @@
+{
+  "name": "loker-rindo",
+  "version": "1.0.0",
+  "description": "BOT LOKER BUAT R INDONESIA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indo-r/loker-r-indo-js-bot.git"
+  },
+  "author": "RED, akherlan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indo-r/loker-r-indo-js-bot/issues"
+  },
+  "homepage": "https://github.com/indo-r/loker-r-indo-js-bot#readme"
+}
